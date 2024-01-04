@@ -21,6 +21,7 @@ I am a Full Stack Developer based in London.
 - :zap: Interested in Film, Music, and Literature. Looking to work on collaborative projects related to these interests. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakethomaswright/)
+- Checkout my <a href="https://jaketwright1.github.io/profile/">Profile</a>
 
 - ### :hammer_and_wrench: Languages and Tools :
 - <div>
